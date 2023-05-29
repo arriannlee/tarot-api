@@ -111,7 +111,7 @@ const card = {
     'type': 'Major Arcana',
     'suit': '',
     'cardName': 'The Lovers',
-    'description': 'Embark on the journey of the Lovers, where passion and harmony entwine. Two souls stand at the precipice of profound connection. Their gazes lock, igniting a flame that transcends the physical. Above, an angel blesses their union, whispering celestial guidance. The intertwined trees symbolize the intertwining of their destinies. Eros' arrow strikes deep, forging a bond that defies time and space. In the realm of the Lovers, love conquers all, urging you to embrace the transformative power of true connection and celebrate the harmonious dance of hearts entwined.',
+    'description': 'Embark on the journey of the Lovers, where passion and harmony entwine. Two souls stand at the precipice of profound connection. Their gazes lock, igniting a flame that transcends the physical. Above, an angel blesses their union, whispering celestial guidance. The intertwined trees symbolize the intertwining of their destinies. Eros\' arrow strikes deep, forging a bond that defies time and space. In the realm of the Lovers, love conquers all, urging you to embrace the transformative power of true connection and celebrate the harmonious dance of hearts entwined.',
     'uprightOne': '',
     'uprightTwo': '',
     'uprightThree': '',
