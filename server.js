@@ -432,6 +432,26 @@ const card = {
     'reversed5': 'Lack of integration: In the reversed position, the World card symbolizes a lack of integration or difficulty in finding harmony within oneself and the surrounding world. It suggests the need for inner reflection and a willingness to address internal conflicts or contradictions.',
     'img': '',
   },
+  'unknown': {
+    'type': 'unknown',
+    'suit': 'unknown',
+    'cardName': 'unknown',
+    'description': 'unknown',
+    'upright1': 'unknown',
+    'upright2': 'unknown',
+    'upright3': 'unknown',
+    'upright4': 'unknown',
+    'upright5': 'unknown',
+    'reversed1': 'unknown',
+    'reversed2': 'unknown',
+    'reversed3': 'unknown',
+    'reversed4': 'unknown',
+    'reversed5': 'unknown',
+    'img': 'unknown',
+  } 
+}
+
+
   //  '': {
   //   'type': '',
   //   'suit': '',
