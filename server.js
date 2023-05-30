@@ -519,7 +519,7 @@ const card = {
   //   'reversed4': '',
   //   'reversed5': '',
   //   'img': '',
-  },
+  // },
   // '': {
   //   'type': '',
   //   'suit': '',
@@ -537,15 +537,7 @@ const card = {
   //   'reversed5': '',
   //   'img': '',
   // },
-  'unknown': {
-    'type': 'unknown',
-    'cardName': 'unknown',
-    'uprightKeywords': 'unknown',
-    'reversedKeywords': 'unknown',
-    'description': 'unknown',
-    'img': 'unknown',
-  }  
-}
+
 
 app.get('/', (req,res)=>{
   res.sendFile(__dirname + '/index.html')
