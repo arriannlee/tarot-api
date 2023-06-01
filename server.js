@@ -3152,6 +3152,10 @@ app.get('/api/:name', (req,res)=>{
     res.json(card['unknown'])
   }
 })
+app.get('/images/:imageName', (req, res) => {
+  const imageName = req.params.imageName;
+  res.sendFile(`/images/${imageName}`);
+});
 
 app.listen(process.env.PORT || PORT, ()=>{
   console.log(`Woo port ${PORT} is up and running - go catch it!`)
