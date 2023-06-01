@@ -44,7 +44,7 @@ const card = {
     'reversed3': 'Naivety: The Fool reversed suggests a state of being overly trusting or gullible. It signifies a vulnerability to deception or manipulation, as well as a tendency to overlook important details or warning signs.',
     'reversed4': 'Stagnation: This card in reverse can indicate a resistance to change or a fear of taking risks. It suggests a reluctance to embrace new opportunities or step out of your comfort zone, leading to a sense of stagnation or missed chances.',
     'reversed5': 'Consequences: The Fool reversed often signifies facing the consequences of your actions or decisions. It warns of potential setbacks, misunderstandings, or negative outcomes resulting from hasty or ill-considered choices.',
-    'img': '/img/the-fool.png',
+    'img': '/images/the-fool.png',
   },
   'the magician': {
     'cardName': 'The Magician',
