@@ -83,7 +83,7 @@ const card = {
     'reversed3': 'Misuse of Power: This card signifies the misuse or abuse of power. It suggests that you may be using your skills or influence in a negative or harmful way, potentially causing harm to others or yourself.',
     'reversed4': 'Ineffectiveness: The Magician reversed represents a lack of effectiveness or inefficiency in your actions. It suggests that despite having the necessary skills or resources, you are unable to utilize them effectively, leading to unsuccessful outcomes or missed opportunities.',
     'reversed5': 'Blocked Potential: This card in reverse can indicate a blockage or suppression of your potential. It suggests a failure to tap into your true abilities or talents, resulting in a sense of stagnation or unfulfilled potential.',
-    'img': '',
+    'img': '/images/the-magician.png',
   },
   'the high priestess': {
     'cardName': 'The High Priestess',
@@ -122,7 +122,7 @@ const card = {
     'reversed3': 'Lack of Understanding: This card signifies a lack of understanding or confusion. The High Priestess reversed suggests a struggle to grasp the deeper meaning or significance of certain experiences or situations.',
     'reversed4': 'Disconnection from Spirituality: In the reversed position, the High Priestess indicates a disconnection from spirituality or a lack of spiritual exploration. It suggests a diminished connection to your higher self and a disregard for inner reflection or spiritual practices.',
     'reversed5': 'Imbalance: The High Priestess reversed suggests an imbalance between the conscious and subconscious mind. It signifies a lack of inner harmony, where rationality and intuition are at odds, leading to confusion or indecisiveness.',
-    'img': '',
+    'img': '/images/the-high-priestess.png',
   },
   'the empress': {
     'cardName': 'The Empress',
@@ -161,7 +161,7 @@ const card = {
     'reversed3': 'Scarcity: This card indicates a sense of scarcity or a lack of abundance. The Empress reversed signifies a period of limited resources, both material and emotional. It may suggest financial challenges or a feeling of emptiness.',
     'reversed4': 'Disharmony: The Empress reversed represents disharmony and imbalance. It suggests a lack of harmony within yourself or in relationships. It may indicate conflicts, discord, or a sense of disconnection from the natural rhythms of life.',
     'reversed5': 'Self-neglect: This card suggests self-neglect or a disregard for self-care. The Empress reversed signifies a tendency to put others\' needs before your own, leading to a depletion of energy and a lack of personal fulfillment.',
-    'img': '',
+    'img': '/images/the-empress.png',
   },
   'the emperor': {
     'cardName': 'The Emperor',
@@ -200,7 +200,7 @@ const card = {
     'reversed3': 'Power Struggles: This card suggests power struggles or challenges to authority. The Emperor reversed signifies conflicts or resistance to established leadership, often resulting from a lack of trust or dissatisfaction with the current structure.',
     'reversed4': 'Lack of Discipline: In the reversed position, the Emperor signifies a lack of discipline or self-control. It suggests a tendency towards impulsiveness or erratic behavior, leading to a lack of focus or direction.',
     'reversed5': 'Irresponsibility: The Emperor reversed embodies a lack of responsibility or accountability. It suggests an avoidance of leadership roles or a failure to fulfill obligations and duties. This card highlights a lack of maturity or unwillingness to take on necessary responsibilities.',
-    'img': '',
+    'img': '/images/the-emperor.png',
   },
   'the hierophant': {
     'cardName': 'The Hierophant',
@@ -239,7 +239,7 @@ const card = {
     'reversed3': 'Questioning Authority: This card suggests a skepticism towards authority figures or institutions. The Hierophant reversed signifies a tendency to question the teachings and guidance of traditional authorities, seeking your own truths and beliefs.',
     'reversed4': 'Unorthodox Practices: The Hierophant reversed embodies unorthodox or alternative practices. It represents a willingness to explore different spiritual paths or unconventional methods of seeking enlightenment or inner wisdom.',
     'reversed5': 'Spirituality in Personal Terms: This card suggests an individualized approach to spirituality. The Hierophant reversed signifies the importance of finding your own spiritual path and defining your beliefs and practices based on personal experiences and insights.',
-    'img': '',
+    'img': '/images/the-hierophant.png',
   },
   'the lovers': {
     'cardName': 'The Lovers',
@@ -278,7 +278,7 @@ const card = {
     'reversed3': 'Unhealthy Attachments: This card suggests unhealthy attachments or codependency. The Lovers reversed represents relationships characterized by a lack of independence and a reliance on the other person for validation or self-worth.',
     'reversed4': 'Love Blocks: The Lovers reversed signifies blocks or obstacles to experiencing love and deep connections. It suggests barriers in opening up emotionally or difficulties in forming meaningful relationships.',
     'reversed5': 'Dishonesty: This card represents dishonesty or deceit within relationships. The Lovers reversed signifies a lack of transparency or trust, indicating potential betrayal or hidden agendas. It serves as a warning to be cautious and aware of potential deception.',
-    'img': '',
+    'img': '/images/the-lovers.png',
   },
   'the chariot': {
     'cardName': 'The Chariot',
@@ -317,7 +317,7 @@ const card = {
     'reversed3': 'Lack of Motivation: This card signifies a lack of motivation or drive. The Chariot reversed suggests a loss of ambition or energy, resulting in a lack of progress or the inability to move forward.',
     'reversed4': 'Inner Conflict: The Chariot reversed represents inner conflict or internal battles. It signifies a struggle between different desires or motivations, leading to indecisiveness or a lack of alignment within yourself.',
     'reversed5': 'Stagnation: This card suggests stagnation or a lack of forward movement. The Chariot reversed signifies being stuck in a state of inertia, where progress and growth are hindered, leading to a sense of frustration or being stuck in a rut.',
-    'img': '',
+    'img': '/images/the-chariot.png',
   },
   'strength': {
     'cardName': 'Strength',
@@ -356,7 +356,7 @@ const card = {
     'reversed3': 'Weakness: This card signifies weakness or a lack of inner strength. The Strength reversed suggests a vulnerability to external pressures or an inability to stand up for yourself in the face of adversity.',
     'reversed4': 'Self-Doubt: The Strength reversed represents self-doubt and a lack of self-trust. It signifies a lack of belief in your abilities or a tendency to underestimate your own power and potential.',
     'reversed5': 'Unresolved Conflict: This card suggests unresolved conflicts or power struggles. The Strength reversed signifies a difficulty in finding a resolution or maintaining inner harmony in challenging situations. It may indicate a need to address and confront these conflicts to regain personal strength.',
-    'img': '',
+    'img': '/images/strength.png',
   },
   'the hermit': {
     'cardName': 'The Hermit',
@@ -395,7 +395,7 @@ const card = {
     'reversed3': 'Lost Direction: This card represents a loss of direction or purpose. The Hermit reversed suggests a feeling of being lost or confused, with a lack of clarity about your path or goals.',
     'reversed4': 'Avoidance: The Hermit reversed signifies a tendency to avoid introspection or self-reflection. It suggests a resistance to facing inner truths or avoiding necessary periods of solitude and introspection for personal growth.',
     'reversed5': 'Lack of Guidance: In the reversed position, the Hermit indicates a lack of guidance or mentorship. It suggests a difficulty in finding wise counsel or seeking guidance from others, leading to a sense of uncertainty or feeling adrift.',
-    'img': '',
+    'img': '/images/the-hermit.png',
   },
   'wheel of fortune': {
     'cardName': 'Wheel Of Fortune',
@@ -434,7 +434,7 @@ const card = {
     'reversed3': 'Unpredictability: The Wheel of Fortune reversed symbolizes unpredictability and a lack of control over external circumstances. It indicates that events may be more chaotic or uncertain, making it challenging to anticipate or navigate through them.',
     'reversed4': 'Misfortune: This card represents a period of misfortune or unfortunate events. The Wheel of Fortune reversed suggests that luck may not be in your favor, and unexpected challenges or setbacks may arise.',
     'reversed5': 'Breaking Cycles: In the reversed position, the Wheel of Fortune signifies an opportunity to break negative cycles or patterns. It suggests a need for conscious awareness and deliberate action to create positive change and break free from repetitive cycles of outcomes.',
-    'img': '',
+    'img': '/images/wheel-of-fortune',
   },
   'justice': {
     'cardName': 'Justice',
@@ -473,7 +473,7 @@ const card = {
     'reversed3': 'Lack of Accountability: This card signifies a lack of accountability or evasion of responsibility. The Justice reversed suggests a refusal to take ownership of your actions or face the consequences of your choices.',
     'reversed4': 'Legal Injustice: The Justice reversed can represent legal injustice or unfair legal outcomes. It suggests that legal proceedings may be biased, unjust, or improperly conducted, leading to unjust results.',
     'reversed5': 'Imbalance: This card embodies imbalance and lack of equilibrium. The Justice reversed signifies situations where there is a lack of fairness, harmony, or balance. It may indicate a need to restore balance and rectify injustices.',
-    'img': '',
+    'img': '/images/justice.png',
   },
   'the hanged man': {
     'cardName': 'The Hanged Man',
@@ -512,7 +512,7 @@ const card = {
     'reversed3': 'Lack of Surrender: In the reversed position, the Hanged Man suggests a resistance to surrendering or letting go of control. It signifies a struggle to release control and trust in the natural flow of life, resulting in a sense of being trapped or restricted.',
     'reversed4': 'Narrow Perspective: The Hanged Man reversed symbolizes a limited or narrow perspective. It represents an inability or unwillingness to see alternative viewpoints or consider different possibilities, which may hinder personal growth and understanding.',
     'reversed5': 'Delayed Enlightenment: This card suggests a delay in achieving spiritual enlightenment or gaining deeper insights. The Hanged Man reversed signifies obstacles or internal resistance that prevent the individual from experiencing the transformative journey associated with this card in its upright position.',
-    'img': '',
+    'img': '/images/the-hanged-man.png',
   },
   'death': {
     'cardName': 'Death',
@@ -551,7 +551,7 @@ const card = {
     'reversed3': 'Fear of Endings: In the reversed position, the Death card symbolizes a fear of endings or a reluctance to embrace necessary closures. It suggests holding onto situations or relationships that have reached your natural end, resulting in an inability to move into new phases of life.',
     'reversed4': 'Resisting Transformation: The Death reversed represents resisting personal transformation or avoiding the necessary inner work. It signifies a reluctance to let go of old identities, beliefs, or behaviors that are preventing growth and evolution.',
     'reversed5': 'Delayed Rebirth: This card suggests a delay in experiencing the transformative rebirth associated with the Death card in its upright position. The Death reversed signifies being stuck in a state of limbo or resisting the necessary changes that would lead to personal renewal and growth.',
-    'img': '',
+    'img': '/images/death.png',
   },
 
   'temperance': {
@@ -582,7 +582,6 @@ const card = {
     'reversedKeyword4': 'Excess',
     'reversedKeyword5': 'Lack of Adaptability',
     'reversedDescription1': 'The Temperance reversed suggests a lack of balance or harmony. It represents a difficulty in finding moderation and integration, leading to extremes or instability in various areas of life.',
-
     'reversedDescription2': 'This card signifies impatience and a lack of tolerance. The Temperance reversed suggests a tendency to rush or seek quick fixes, disregarding the need for patience and gradual progress.',
     'reversedDescription3': 'In the reversed position, the Temperance card represents disharmony or conflicts. It signifies difficulties in finding common ground or reconciling opposing forces, resulting in tension or discord.',
     'reversedDescription4': 'This card symbolizes excessiveness or overindulgence. The Temperance reversed suggests a lack of self-control or an imbalance in your desires, leading to overconsumption or addictive behaviors.',
@@ -592,7 +591,7 @@ const card = {
     'reversed3': 'Disharmony: In the reversed position, the Temperance card represents disharmony or conflicts. It signifies difficulties in finding common ground or reconciling opposing forces, resulting in tension or discord.',
     'reversed4': 'Excess: This card symbolizes excessiveness or overindulgence. The Temperance reversed suggests a lack of self-control or an imbalance in your desires, leading to overconsumption or addictive behaviors.',
     'reversed5': 'Lack of Adaptability: The Temperance reversed signifies a resistance to change or an inability to adapt to new circumstances. It suggests a rigid mindset or an aversion to embracing different perspectives, hindering personal growth and adaptability.',
-    'img': '',
+    'img': '/images/temperance.png',
   },
   'the devil': {
     'cardName': 'The Devil',
@@ -631,7 +630,7 @@ const card = {
     'reversed3': 'Overcoming Temptation: The Devil reversed symbolizes overcoming temptation and resisting negative influences. It signifies the strength to resist the allure of harmful behaviors or desires that may lead you astray from your true path.',
     'reversed4': 'Personal Empowerment: This card signifies personal empowerment and taking control of your life. The Devil reversed suggests reclaiming personal sovereignty, making conscious choices, and aligning with your values and authentic self.',
     'reversed5': 'Breaking Cycles: The Devil reversed represents the opportunity to break free from repetitive patterns or cycles of self-destructive behavior. It signifies a chance to break away from negative habits, thoughts, or relationships that hinder personal growth and progress.',
-    'img': '',
+    'img': '/images/the-devil.png',
   },
   'the tower': {
     'cardName': 'The Tower',
@@ -670,7 +669,7 @@ const card = {
     'reversed3': 'Resistance to Transformation: In the reversed position, the Tower signifies a resistance to personal transformation or a fear of the unknown. It suggests a reluctance to let go of outdated structures or belief systems, hindering personal growth and evolution.',
     'reversed4': 'Release of Repressed Emotions: The Tower reversed can represent the release of repressed emotions or suppressed energies. It signifies a breaking down of emotional barriers or past traumas, leading to an eventual catharsis or emotional release.',
     'reversed5': 'Gradual Change: This card suggests a slower or more gradual process of change or upheaval. The Tower reversed signifies a gentler transformation, where shifts occur over time rather than in a sudden and dramatic manner as seen in the upright position of the card.',
-    'img': '',
+    'img': '/images/the-tower.png',
   },
   'the star': {
     'cardName': 'The Star',
@@ -709,7 +708,7 @@ const card = {
     'reversed3': 'Pessimism: The Star reversed can symbolize pessimism or a negative outlook. It suggests a tendency to focus on limitations or setbacks, losing sight of the positive aspects of life. It encourages shifting perspective and finding ways to cultivate optimism.',
     'reversed4': 'Blocked Intuition: In the reversed position, the Star signifies a disconnection from your intuition or inner guidance. It suggests difficulty accessing and trusting your intuition, resulting in a sense of confusion or being out of touch with your true self.',
     'reversed5': 'Healing Delayed: This card represents a delay in healing or the resolution of emotional or spiritual wounds. The Star reversed suggests that the process of healing may be slower or require additional effort. It encourages patience and perseverance in the journey toward inner wholeness.',
-    'img': '',
+    'img': '/images/the-star.png',
   },
   'the moon': {
     'cardName': 'The Moon',
@@ -748,7 +747,7 @@ const card = {
     'reversed3': 'Unconscious Blockages: The Moon reversed signifies blocked or suppressed emotions and subconscious issues. It suggests that unresolved emotional patterns or hidden fears may be surfacing, creating obstacles to personal growth and self-awareness.',
     'reversed4': 'Release of Fears: In the reversed position, the Moon represents an opportunity to release fears and face inner demons. It symbolizes a time of confronting deep-seated fears and anxieties, allowing for healing and personal transformation.',
     'reversed5': 'Lack of Clarity: The Moon reversed signifies a lack of clarity or understanding. It suggests that the path forward may be unclear or that important information is being obscured. It calls for patience and discernment to navigate through uncertainties and seek clarity.',
-    'img': '',
+    'img': '/images/the-moon.png',
   },
   'the sun': {
     'cardName': 'The Sun',
@@ -787,7 +786,7 @@ const card = {
     'reversed3': 'Dimmed Enthusiasm: The Sun reversed represents a decrease in enthusiasm or a loss of vitality. It may indicate a temporary decrease in energy levels or a feeling of being drained or uninspired.',
     'reversed4': 'Disconnection from Joy: This card signifies a disconnection from joy or a struggle to find happiness. The Sun reversed suggests a need to reconnect with your inner light and find ways to cultivate joy and positivity.',
     'reversed5': 'Overconfidence: In the reversed position, the Sun can indicate overconfidence. It warns against becoming overly self-centered or arrogant, reminding you to stay grounded and humble in your achievements.',
-    'img': '',
+    'img': '/images/the-sun.png',
   },
   'judgement': {
     'cardName': 'Judgement',
@@ -826,7 +825,7 @@ const card = {
     'reversed3': 'Ignoring Inner Calling: The Judgment card reversed signifies ignoring or neglecting your inner calling or intuitive guidance. It suggests a disconnection from your true purpose or a refusal to listen to the deeper wisdom within.',
     'reversed4': 'Lack of Self-Reflection: This card represents a lack of self-reflection or an avoidance of introspection. The Judgment reversed suggests a tendency to avoid taking responsibility for your actions or to overlook the lessons and insights gained from past experiences.',
     'reversed5': 'Delayed Spiritual Growth: In the reversed position, the Judgment card indicates a delay in spiritual growth or a resistance to spiritual awakening. It suggests a missed opportunity for personal transformation or a reluctance to embrace spiritual truths and lessons.',
-    'img': '',
+    'img': '/images/judgement.png',
   },
    'the world': {
     'cardName': 'The World',
@@ -865,7 +864,7 @@ const card = {
     'reversed3': 'Resistance to Change: The World reversed signifies resistance to change or a reluctance to embrace new opportunities and experiences. It suggests a fear of stepping out of your comfort zone or clinging to familiar patterns, hindering personal growth.',
     'reversed4': 'Delayed Fulfillment: This card represents a delay in experiencing fulfillment or achieving goals. The World reversed suggests that external or internal factors may be impeding progress, requiring patience and perseverance to overcome obstacles.',
     'reversed5': 'Lack of Integration: In the reversed position, the World card symbolizes a lack of integration or difficulty in finding harmony within yourself and the surrounding world. It suggests the need for inner reflection and a willingness to address internal conflicts or contradictions.',
-    'img': '',
+    'img': '/images/the-world.png',
   },
 
   'ace of cups': {
@@ -905,7 +904,7 @@ const card = {
     'reversed3': 'Disconnection: The Ace of Cups reversed symbolizes a disconnection from emotions or a sense of emotional detachment. It suggests a need to reconnect with your heart, feelings, and the ability to form deep emotional connections.',
     'reversed4': 'Emotional Turmoil: In the reversed position, the Ace of Cups represents emotional turmoil or inner conflicts. It signifies unresolved emotional issues, inner chaos, or challenges in finding emotional balance and harmony.',
     'reversed5': 'Blocked Love: This card suggests a blockage or delay in experiencing love or emotional fulfillment. The Ace of Cups reversed signifies obstacles or limitations in the realm of love, requiring introspection and addressing emotional barriers to open up to new possibilities.',
-    'img': '',
+    'img': '/images/cups-ace.png',
   },
 
   'two of cups': {
@@ -945,7 +944,7 @@ const card = {
     'reversed3': 'Imbalance: In the reversed position, the Two of Cups signifies imbalance or unequal give-and-take in relationships. It suggests an imbalance of emotions, power dynamics, or a lack of reciprocity.',
     'reversed4': 'Broken Bonds: This card represents broken bonds or severed connections. The Two of Cups reversed signifies the ending or deterioration of a once-close relationship, indicating a need for healing or letting go.',
     'reversed5': 'Incompatibility: The Two of Cups reversed suggests a lack of compatibility or differing emotional needs in relationships. It signifies challenges in finding common ground or difficulty in establishing a deep emotional connection.',
-    'img': '',
+    'img': '/images/cups-two.png',
   },
   'three of cups': {
     'cardName': 'Three of Cups',
@@ -984,7 +983,7 @@ const card = {
     'reversed3': 'Excess or Imbalance: In the reversed position, the Three of Cups signifies excesses or imbalance in social activities. It suggests overindulgence, partying to escape, or an imbalance between personal commitments and social engagements.',
     'reversed4': 'Gossip or Jealousy: This card represents gossip, envy, or negative social dynamics. The Three of Cups reversed signifies rumors, jealousy, or the presence of toxic relationships that can harm the sense of camaraderie and trust.',
     'reversed5': 'Lack of Celebration: The Three of Cups reversed suggests a lack of celebration or difficulty in finding joy and connection with others. It signifies a need to seek deeper meaning in relationships and cultivate a sense of appreciation and gratitude.',
-    'img': '',
+    'img': '/images/cups-three.png',
   },
   'four of cups': {
     'cardName': 'Four of Cups',
@@ -1023,7 +1022,7 @@ const card = {
     'reversed3': 'New Perspectives and Possibilities: In the reversed position, the Four of Cups represents being open to new perspectives and possibilities. It suggests a willingness to explore different options, opportunities, or relationships that may bring renewed excitement and fulfillment.',
     'reversed4': 'Renewed Interest: This card signifies a renewed interest in the external world and a willingness to engage with life. The Four of Cups reversed suggests a reawakening of curiosity, enthusiasm, and a desire to participate in new experiences.',
     'reversed5': 'Emotional Rejuvenation: The Four of Cups reversed represents emotional rejuvenation and a fresh perspective on your emotions. It signifies a release of stagnant energy, allowing for emotional growth, and a greater appreciation for the beauty and opportunities around.',
-    'img': '',
+    'img': '/images/cups-four.png',
   },
   'five of cups': {
     'cardName': 'Five of Cups',
@@ -1062,7 +1061,7 @@ const card = {
     'reversed3': 'Perspective Shift: In the reversed position, the Five of Cups represents a shift in perspective. It suggests finding gratitude for what remains and focusing on the positives rather than dwelling on what has been lost.',
     'reversed4': 'Renewed Hope: The Five of Cups reversed signifies a renewed sense of hope and optimism. It represents the belief that better days lie ahead and the willingness to seek out new possibilities and experiences.',
     'reversed5': 'Moving Forward: This card represents the ability to move forward and leave the past behind. The Five of Cups reversed suggests embracing the present moment, learning from past experiences, and cultivating resilience in the face of adversity.',
-    'img': '',
+    'img': '/images/cups-five.png',
   },
   'six of cups': {
     'cardName': 'Six of Cups',
@@ -1101,7 +1100,7 @@ const card = {
     'reversed3': 'Moving On: The Six of Cups reversed represents moving on from past relationships or experiences that no longer serve your highest good. It signifies embracing change, seeking new connections, and focusing on the future.',
     'reversed4': 'Reevaluation of Childhood Experiences: In the reversed position, the Six of Cups suggests reevaluating childhood experiences or memories. It signifies questioning nostalgic attachments and gaining new insights or perspectives on past events.',
     'reversed5': 'Embracing the Present: The Six of Cups reversed encourages living in the present moment and embracing the opportunities and experiences that are available now. It signifies finding joy, love, and fulfillment in the present rather than solely dwelling on the past.',
-    'img': '',
+    'img': '/images/cups-six.png',
   },
   'seven of cups': {
     'cardName': 'Seven of Cups',
@@ -1140,7 +1139,7 @@ const card = {
     'reversed3': 'Groundedness: The Seven of Cups in the reversed position represents being grounded and anchored in reality. It signifies avoiding escapism or wishful thinking, and instead, staying rooted in the present moment.',
     'reversed4': 'Dissipation of Confusion: This card represents the dissipation of confusion or ambiguity. The Seven of Cups reversed signifies finding mental clarity, resolving internal conflicts, and gaining a better understanding of your desires and priorities.',
     'reversed5': 'Making Informed Choices: In the reversed position, the Seven of Cups signifies making informed and conscious choices. It suggests using discernment, practicality, and a clear understanding of your values and goals to make decisions.',
-    'img': '',
+    'img': '/images/cups-seven.png',
   },
   'eight of cups': {
     'cardName': 'Eight of Cups',
@@ -1179,7 +1178,7 @@ const card = {
     'reversed3': 'Avoidance: The Eight of Cups in reverse represents avoiding necessary changes or avoiding the emotional work required for growth. It suggests a tendency to suppress or ignore your true desires or emotions, leading to a sense of disconnection or dissatisfaction.',
     'reversed4': 'Fear of Loss: This card signifies a fear of loss or the inability to let go of attachments. The Eight of Cups reversed suggests holding onto what is known, even if it no longer brings fulfillment, due to a fear of the potential emptiness or uncertainty that may follow.',
     'reversed5': 'Reevaluating Priorities: In the reversed position, the Eight of Cups represents a need to reevaluate priorities and consider what truly brings fulfillment. It signifies reflecting on your emotional needs, desires, and aspirations, and making adjustments to align with personal growth and happiness.',
-    'img': '',
+    'img': '/images/cups-eight.png',
   },
   'nine of cups': {
     'cardName': 'Nine of Cups',
@@ -1218,7 +1217,7 @@ const card = {
     'reversed3': 'Emotional Imbalance: The Nine of Cups in reverse represents emotional imbalance or an inner void. It signifies a disconnection from your emotions, feeling emotionally empty, or experiencing fluctuations in mood.',
     'reversed4': 'Excessive Indulgence: This card signifies excessive indulgence or seeking fulfillment through external means. The Nine of Cups reversed suggests the potential for overindulgence, relying on material possessions or superficial pleasures to fill an emotional void.',
     'reversed5': 'Reflecting on True Desires: In the reversed position, the Nine of Cups represents reflecting on true desires and reassessing what brings genuine fulfillment. It signifies an opportunity for introspection, evaluating your priorities, and seeking emotional satisfaction from within rather than relying solely on external sources.',
-    'img': '',
+    'img': '/images/cups-nine.png',
   },
   'ten of cups': {
     'cardName': 'Ten of Cups',
@@ -1257,7 +1256,7 @@ const card = {
     'reversed3': 'Disconnection from Loved Ones: The Ten of Cups in reverse represents a disconnection from loved ones or a sense of alienation within family or relationship dynamics. It suggests a need for open communication and efforts to rebuild connections.',
     'reversed4': 'Unresolved Conflicts: This card signifies unresolved conflicts or unresolved emotional issues within relationships. The Ten of Cups reversed suggests the need for addressing underlying tensions, seeking understanding, and finding resolutions.',
     'reversed5': 'Lack of Fulfillment: In the reversed position, the Ten of Cups represents a lack of emotional fulfillment or a sense of dissatisfaction within relationships. It signifies the need for introspection, identifying areas of improvement, and making efforts to create a more harmonious and fulfilling environment.',
-    'img': '',
+    'img': '/images/cups-ten.png',
   },
   'page of cups': {
     'cardName': 'Page of Cups',
@@ -1296,7 +1295,7 @@ const card = {
     'reversed3': 'Emotional Instability: The Page of Cups in reverse signifies emotional instability or erratic emotions. It suggests the need for emotional balance and finding healthier ways to process and express feelings.',
     'reversed4': 'Blocked Creativity: This card represents blocked creativity or a lack of inspiration. The Page of Cups reversed suggests a temporary stagnation in artistic or emotional expression, needing to overcome obstacles to tap into your creative potential.',
     'reversed5': 'Emotional Immaturity: The Page of Cups reversed suggests emotional immaturity or difficulty in managing and expressing emotions. It signifies a need for emotional growth and learning to navigate relationships with greater sensitivity and maturity.',
-    'img': '',
+    'img': '/images/cups-page.png',
   },
   'knight of cups': {
     'cardName': 'Knight of Cups',
@@ -1335,7 +1334,7 @@ const card = {
     'reversed3': 'Escapism: The Knight of Cups in reverse represents escapism or using fantasies as a means to avoid facing reality. It signifies a tendency to live in a world of illusions, avoiding the emotional challenges or responsibilities of the present.',
     'reversed4': 'Overemotional Reactions: This card signifies overemotional reactions or being overly sensitive. The Knight of Cups reversed suggests a tendency to be easily overwhelmed by emotions, leading to irrational decisions or heightened drama in relationships.',
     'reversed5': 'Lack of Direction: In the reversed position, the Knight of Cups represents a lack of direction or clarity in emotional pursuits. It signifies confusion about your true desires or difficulties in navigating relationships and emotional situations.',
-    'img': '',
+    'img': '/images/cups-knight.png',
   },  
   'queen of cups': {
     'cardName': 'Queen of Cups',
@@ -1374,7 +1373,7 @@ const card = {
     'reversed3': 'Manipulation or Moodiness: The Queen of Cups in reverse signifies manipulative or moody behavior. It suggests using emotions as a means of control or displaying erratic mood swings that affect relationships and interactions.',
     'reversed4': 'Overdependence On Others: This card embodies overdependence on others for emotional support. The Queen of Cups reversed suggests relying heavily on others for validation or emotional stability, leading to a lack of self-sufficiency.',
     'reversed5': 'Lack of Emotional Boundaries: In the reversed position, the Queen of Cups represents a lack of emotional boundaries or difficulty discerning your emotions from others\'. It signifies absorbing the emotions of others to an extent that it becomes overwhelming and blurs personal boundaries.',
-    'img': '',
+    'img': '/images/cups-queen.png',
   },  
   'king of cups': {
     'cardName': 'King of Cups',
@@ -1413,7 +1412,7 @@ const card = {
     'reversed3': 'Lack of Emotional Maturity: The King of Cups in reverse signifies a lack of emotional maturity or immaturity in handling emotions. It suggests an inability to effectively communicate or connect on an emotional level.',
     'reversed4': 'Unresolved emotional issues: This card embodies unresolved emotional issues or unresolved trauma. The King of Cups reversed suggests the need for healing and emotional self-care, as past wounds may be affecting present relationships and emotional well-being.',
     'reversed5': 'Indifference or Emotional Detachment: In the reversed position, the King of Cups represents emotional indifference or detachment. It signifies a lack of empathy or an unwillingness to engage emotionally, leading to a sense of disconnection in relationships.',
-    'img': '',
+    'img': '/images/cups-king.png',
   },  
   
   'ace of swords': {
@@ -1453,7 +1452,7 @@ const card = {
     'reversed3': 'Mental Blockages: The Ace of Swords in reverse signifies mental blockages or the suppression of ideas. It suggests difficulty in expressing yourself intellectually or encountering obstacles that hinder intellectual growth.',
     'reversed4': 'False Starts: This card embodies false starts or unsuccessful ventures. The Ace of Swords reversed suggests a lack of follow-through or the failure to manifest ideas into tangible results.',
     'reversed5': 'Dishonesty: In the reversed position, the Ace of Swords represents dishonesty or deception. It signifies the manipulation of truth, intellectual dishonesty, or using mental prowess for self-serving purposes.',
-    'img': '',
+    'img': '/images/swords-ace.png',
   },  
   'two of swords': {
     'cardName': 'Two of Swords',
@@ -1492,7 +1491,7 @@ const card = {
     'reversed3': 'Unresolved Conflict: The Two of Swords in reverse signifies unresolved conflict or the avoidance of difficult conversations. It suggests the need to address underlying tensions, communicate openly, and seek resolution.',
     'reversed4': 'Imbalance: This card embodies imbalance or an inability to find harmony between opposing forces. The Two of Swords reversed suggests a lack of compromise, rigid thinking, or being swayed by external influences, leading to disharmony.',
     'reversed5': 'Forced Choices: In the reversed position, the Two of Swords represents feeling pressured or forced into making a decision. It suggests external factors or societal expectations influencing choices, leading to internal conflict and dissatisfaction.',
-    'img': '',
+    'img': '/images/swords-two.png',
   },  
   'three of swords': {
     'cardName': 'Three of Swords',
@@ -1531,7 +1530,7 @@ const card = {
     'reversed3': 'Relief: The Three of Swords in reverse symbolizes the alleviation of pain or the easing of emotional suffering. It suggests finding peace of mind, gaining closure, or experiencing a sense of relief from past hurts.',
     'reversed4': 'Inner Strength: This card embodies inner strength and resilience. The Three of Swords reversed signifies the ability to bounce back from heartbreak, learning from difficult experiences, and growing stronger emotionally.',
     'reversed5': 'Emotional Renewal: In the reversed position, the Three of Swords represents emotional renewal and the opportunity for a fresh start. It signifies embracing new perspectives, learning from past experiences, and opening the heart to love and joy once again.',
-    'img': '',
+    'img': '/images/swords-three.png',
   },  
   'four of swords': {
     'cardName': 'Four of Swords',
@@ -1570,7 +1569,7 @@ const card = {
     'reversed3': 'Burnout: The Four of Swords in reverse symbolizes burnout or exhaustion. It signifies pushing yourself too hard without proper rest, leading to physical or mental depletion and the need for self-care.',
     'reversed4': 'Delayed Healing: This card embodies a delay in the healing process or an extended period of recovery. The Four of Swords reversed suggests patience and persistence in the healing journey, as healing may take longer than expected.',
     'reversed5': 'Impulsiveness: In the reversed position, the Four of Swords represents impulsive actions or rushing into situations without proper consideration. It signifies the need for caution and taking time to think things through before making decisions.',
-    'img': '',
+    'img': '/images/swords-four.png',
   },  
   'five of swords': {
     'cardName': 'Five of Swords',
@@ -1609,7 +1608,7 @@ const card = {
     'reversed3': 'Retreat: The Five of Swords in reverse symbolizes the need for retreat or stepping back from conflicts. It signifies avoiding unnecessary confrontations, protecting your energy, and prioritizing peace.',
     'reversed4': 'Humility: This card embodies humility and recognizing your own mistakes or shortcomings. The Five of Swords reversed signifies the importance of acknowledging your role in conflicts, showing humility, and seeking personal growth.',
     'reversed5': 'Reevaluation: In the reversed position, the Five of Swords represents reevaluating your approach to conflicts or challenging situations. It signifies learning from past experiences, adopting new strategies, and finding healthier ways to navigate conflicts',
-    'img': '',
+    'img': '/images/swords-five.png',
   },  
   'six of swords': {
     'cardName': 'Six of Swords',
@@ -1648,7 +1647,7 @@ const card = {
     'reversed3': 'Delayed Progress: The Six of Swords in reverse symbolizes a delay in progress or a slower-than-expected journey towards healing. It signifies the need for patience, perseverance, and addressing any unresolved issues or emotions.',
     'reversed4': 'Lack of Support: This card embodies a lack of support or feeling isolated during a difficult transition. The Six of Swords reversed suggests the importance of seeking assistance, reaching out for help, or building a support network.',
     'reversed5': 'Uncertainty: In the reversed position, the Six of Swords represents uncertainty about the future or hesitancy in embracing change. It signifies the need for self-reflection, gaining clarity, and finding inner strength to overcome doubts and fears.',
-    'img': '',
+    'img': '/images/swords-six.png',
   },  
   'seven of swords': {
     'cardName': 'Seven of Swords',
@@ -1687,7 +1686,7 @@ const card = {
     'reversed3': 'Transparency: The Seven of Swords in reverse symbolizes transparency and open communication. It signifies the importance of honesty, integrity, and building trust in relationships or situations.',
     'reversed4': 'Vulnerability: This card embodies vulnerability or feeling exposed. The Seven of Swords reversed suggests the need to let go of defense mechanisms, be open to receiving support, and embracing authenticity.',
     'reversed5': 'Integrity: In the reversed position, the Seven of Swords represents acting with integrity and maintaining ethical standards. It signifies the importance of being truthful, fair, and honorable in all dealings.',
-    'img': '',
+    'img': '/images/swords-seven.png',
   },  
   'eight of swords': {
     'cardName': 'Eight of Swords',
@@ -1726,7 +1725,7 @@ const card = {
     'reversed3': 'Clarity: The Eight of Swords in reverse symbolizes gaining clarity and a clearer understanding of the situation. It signifies releasing self-doubt, seeing opportunities for growth, and finding a way forward with renewed confidence.',
     'reversed4': 'Self-Acceptance: This card embodies self-acceptance and embracing your true potential. The Eight of Swords reversed suggests letting go of self-defeating thoughts, cultivating self-compassion, and embracing personal freedom.',
     'reversed5': 'Support: In the reversed position, the Eight of Swords represents seeking and receiving support. It signifies reaching out to others, accepting assistance, and recognizing that help is available to navigate through challenges.',
-    'img': '',
+    'img': '/images/swords-eight.png',
   },  
   'nine of swords': {
     'cardName': 'Nine of Swords',
@@ -1765,7 +1764,7 @@ const card = {
     'reversed3': 'Inner Peace: The Nine of Swords in reverse symbolizes finding inner peace and calm. It signifies practicing self-care, mindfulness, and nurturing a positive mindset to alleviate anxiety and promote emotional well-being.',
     'reversed4': 'Restful Sleep: This card embodies restful sleep or improved sleep patterns. The Nine of Swords reversed suggests creating a peaceful bedtime routine, implementing relaxation techniques, or addressing any underlying causes of sleep disturbances.',
     'reversed5': 'Self-Compassion: In the reversed position, the Nine of Swords represents practicing self-compassion and self-care. It signifies being gentle with yourself, seeking support from loved ones, and prioritizing mental and emotional well-being.',
-    'img': '',
+    'img': '/images/swords-nine.png',
   },  
   'ten of swords': {
     'cardName': 'Ten of Swords',
@@ -1804,7 +1803,7 @@ const card = {
     'reversed3': 'Release: The Ten of Swords in reverse symbolizes releasing pain and letting go of past hurts. It signifies forgiving yourself or others, finding closure, and embracing the opportunity for emotional healing.',
     'reversed4': 'Renewal: This card embodies renewal or the chance for a fresh start. The Ten of Swords reversed suggests leaving behind old patterns, embracing positive change, and creating a new vision for the future.',
     'reversed5': 'Recovery: In the reversed position, the Ten of Swords represents the process of recovery and rebuilding. It signifies finding support, seeking professional help if needed, and taking small steps towards regaining your strength and well-being.',
-    'img': '',
+    'img': '/images/swords-ten.png',
   },  
   'page of swords': {
     'cardName': 'Page of Swords',
@@ -1843,7 +1842,7 @@ const card = {
     'reversed3': 'Lack of Focus: The Page of Swords in reverse symbolizes a lack of focus or scattered energy. It signifies difficulty concentrating, feeling easily distracted, or struggling to follow through on commitments or tasks.',
     'reversed4': 'Miscommunication: This card embodies miscommunication or misunderstandings. The Page of Swords reversed signifies the potential for communication breakdowns, conflicts arising from unclear or misinterpreted messages, or difficulty conveying thoughts effectively.',
     'reversed5': 'Recklessness: In the reversed position, the Page of Swords represents recklessness or taking unnecessary risks. It signifies a disregard for consequences, impulsive actions, or engaging in behaviors that may lead to negative outcomes.',
-    'img': '',
+    'img': '/images/swords-page.png',
   },  
   'knight of swords': {
     'cardName': 'Knight of Swords',
@@ -1882,7 +1881,7 @@ const card = {
     'reversed3': 'Impulsiveness: The Knight of Swords in reverse symbolizes impulsiveness and acting without forethought. It signifies making hasty decisions, lacking a strategic approach, or engaging in reckless behaviors that may lead to negative outcomes.',
     'reversed4': 'Lack of Direction: This card embodies a lack of direction or purpose. The Knight of Swords reversed signifies feeling lost or uncertain about your path, experiencing a lack of clarity, or struggling to find a clear sense of direction.',
     'reversed5': 'Careless: In the reversed position, the Knight of Swords represents carelessness or a disregard for consequences. It signifies acting without considering the potential impact on yourself or others, taking unnecessary risks, or being negligent in your actions.',
-    'img': '',
+    'img': '/images/swords-knight.png',
   },  
   'queen of swords': {
     'cardName': 'Queen of Swords',
@@ -1921,7 +1920,7 @@ const card = {
     'reversed3': 'Harshness: The Queen of Swords in reverse symbolizes harshness in speech or actions. It signifies using words as weapons, being overly critical or judgmental, or hurting others with sharp and cutting remarks.',
     'reversed4': 'Closed-Mindedness: This card embodies closed-mindedness or a refusal to consider different perspectives. The Queen of Swords reversed signifies being rigid in your beliefs, dismissing alternative viewpoints, or being resistant to change.',
     'reversed5': 'Isolation: In the reversed position, the Queen of Swords represents isolation or withdrawing from social connections. It signifies creating emotional barriers, choosing solitude over interaction, or feeling disconnected from others.',
-    'img': '',
+    'img': '/images/swords-queen.png',
   },  
   'king of swords': {
     'cardName': 'King of Swords',
@@ -1960,7 +1959,7 @@ const card = {
     'reversed3': 'Dictatorship: The King of Swords in reverse symbolizes a dictatorial or autocratic approach. It signifies imposing rigid rules, suppressing dissenting voices, or refusing to consider alternative viewpoints.',
     'reversed4': 'Unyielding: This card embodies inflexibility and an unwillingness to compromise. The King of Swords reversed signifies being stubborn, resistant to change, or refusing to consider different perspectives.',
     'reversed5': 'Abusive: In the reversed position, the King of Swords represents abusive behavior or verbal aggression. It signifies using words as weapons, belittling others, or engaging in verbal attacks to assert dominance or superiority.',
-    'img': '',
+    'img': '/images/swords-king.png',
   },
   'ace of pentacles': {
     'cardName': 'Ace of Pentacles',
@@ -1999,7 +1998,7 @@ const card = {
     'reversed3': 'Lack of Abundance: The Ace of Pentacles in reverse symbolizes a lack of abundance or scarcity mindset. It signifies a feeling of limitation, financial struggles, or a sense of not having enough resources.',
     'reversed4': 'Delayed Manifestation: This card embodies a delay in the manifestation of material goals or projects. The Ace of Pentacles reversed signifies a need for patience and persistence in order to see tangible results.',
     'reversed5': 'Instability: In the reversed position, the Ace of Pentacles represents instability or an insecure foundation. It signifies a lack of solid ground, financial insecurity, or an unstable environment that hinders growth and prosperity.',
-    'img': '',
+    'img': '/images/pentacles-ace.png',
   },  
   'two of pentacles': {
     'cardName': 'Two of Pentacles',
@@ -2038,7 +2037,7 @@ const card = {
     'reversed3': 'Poor time management: This card signifies poor time management or disorganization. The Two of Pentacles in reverse represents difficulties in prioritizing tasks, managing time effectively, or maintaining a sense of order.',
     'reversed4': 'Lack of adaptability: This card embodies a lack of adaptability or resistance to change. The Two of Pentacles reversed signifies difficulties in adjusting to new circumstances, being rigid in mindset, or struggling with transitions.',
     'reversed5': 'Unresolved conflicts: In the reversed position, the Two of Pentacles represents unresolved conflicts or tensions between different areas of life. It signifies challenges in finding a harmonious balance and addressing competing priorities.',
-    'img': '',
+    'img': '/images/pentacles-two.png',
   },  
   'three of pentacles': {
     'cardName': 'Three of Pentacles',
@@ -2077,7 +2076,7 @@ const card = {
     'reversed3': 'Unrecognized Efforts: This card signifies a lack of recognition or appreciation for your work. The Three of Pentacles in reverse suggests feeling undervalued, overlooked, or not receiving the deserved recognition for contributions.',
     'reversed4': 'Lack of Planning: The Three of Pentacles reversed embodies a lack of planning or disorganized approach. It signifies a need for more structure, clarity in goals, or a failure to follow a strategic path towards success.',
     'reversed5': 'Stagnation: In the reversed position, the Three of Pentacles represents stagnation or lack of progress. It signifies feeling stuck, experiencing delays, or a lack of forward movement in projects or endeavors.',
-    'img': '',
+    'img': '/images/pentacles-three.png',
   },  
   'four of pentacles': {
     'cardName': 'Four of Pentacles',
@@ -2116,7 +2115,7 @@ const card = {
     'reversed3': 'Financial Mismanagement: The Four of Pentacles in reverse signifies poor financial management or overspending. It represents a lack of control over finances, reckless spending, or ignoring the importance of saving and budgeting.',
     'reversed4': 'Letting Go: This card embodies the need to let go and release attachment to material possessions. The Four of Pentacles reversed signifies the importance of finding a balance between holding onto resources and being willing to share or invest in meaningful experiences.',
     'reversed5': 'Generosity: In the reversed position, the Four of Pentacles represents a call for generosity and giving. It signifies the importance of sharing resources, contributing to others, or finding fulfillment through acts of kindness and charity.',
-    'img': '',
+    'img': '/images/pentacles-four.png',
   },  
   'five of pentacles': {
     'cardName': 'Five of Pentacles',
@@ -2155,7 +2154,7 @@ const card = {
     'reversed3': 'Resilience: The Five of Pentacles in reverse embodies resilience and bouncing back from adversity. It signifies inner strength, learning from past experiences, and using setbacks as fuel for personal growth and transformation.',
     'reversed4': 'Overcoming Challenges: This card signifies the ability to overcome challenges and rise above difficult circumstances. The Five of Pentacles reversed encourages finding alternative paths, embracing opportunities, or making positive changes to improve your situation.',
     'reversed5': 'Self-Reliance: In the reversed position, the Five of Pentacles represents developing self-reliance and taking steps towards independence. It signifies finding inner resources, building resilience, and taking control of your own destiny.',
-    'img': '',
+    'img': '/images/pentacles-five.png',
   },  
   'six of pentacles': {
     'cardName': 'Six of Pentacles',
@@ -2194,7 +2193,7 @@ const card = {
     'reversed3': 'Financial Instability: The Six of Pentacles in reverse signifies financial instability or a struggle to meet your own needs. It may indicate a lack of resources, dependence on others, or difficulties in managing finances effectively.',
     'reversed4': 'Greed: This card embodies greed or an excessive focus on material wealth. The Six of Pentacles reversed signifies a self-centered approach, pursuing personal gain at the expense of others, or an insatiable desire for more.',
     'reversed5': 'Lack of Support: In the reversed position, the Six of Pentacles represents a lack of support or assistance. It may indicate a scarcity of resources, feeling unsupported in times of need, or a reluctance to seek or accept help from others.',
-    'img': '',
+    'img': '/images/pentacles-six.png',
   },  
   'seven of pentacles': {
     'cardName': 'Seven of Pentacles',
@@ -2233,7 +2232,7 @@ const card = {
     'reversed3': 'Lack of Growth: The Seven of Pentacles in reverse signifies a lack of growth or stagnation. It may indicate a lack of progress, a failure to see desired results, or a sense of being stuck in a rut.',
     'reversed4': 'Impulsive Decisions: This card embodies impulsive decisions or a lack of thoughtful planning. The Seven of Pentacles reversed signifies making hasty choices without considering long-term consequences or failing to assess risks adequately.',
     'reversed5': 'Poor Investments: In the reversed position, the Seven of Pentacles represents poor investments or a lack of return on investment. It may indicate wasted time, energy, or resources on endeavors that do not yield satisfactory results.',
-    'img': '',
+    'img': '/images/pentacles-seven.png',
   },  
   'eight of pentacles': {
     'cardName': 'Eight of Pentacles',
@@ -2272,7 +2271,7 @@ const card = {
     'reversed3': 'Skill Gaps: The Eight of Pentacles in reverse signifies gaps in skills or knowledge. It may indicate a need for further development or improvement, encountering challenges in learning new skills, or feeling inadequate in comparison to others.',
     'reversed4': 'Burnout: This card embodies burnout or exhaustion. The Eight of Pentacles reversed signifies feeling overwhelmed by work, losing passion or motivation, or experiencing a decline in productivity due to mental or physical fatigue.',
     'reversed5': 'Lack of Progress: In the reversed position, the Eight of Pentacles represents a lack of progress or stagnation. It may indicate feeling stuck in a routine, unable to advance or grow professionally, or struggling to see tangible results from efforts.',
-    'img': '',
+    'img': '/images/pentacles-eight.png',
   },  
   'nine of pentacles': {
     'cardName': 'Nine of Pentacles',
@@ -2311,7 +2310,7 @@ const card = {
     'reversed3': 'Materialism: The Nine of Pentacles in reverse embodies excessive materialism or a focus on superficial values. It may indicate prioritizing material possessions over deeper fulfillment, feeling empty despite material wealth, or being consumed by a desire for more.',
     'reversed4': 'Isolation: This card signifies feelings of isolation or loneliness. The Nine of Pentacles reversed represents a lack of social connection, feeling disconnected from others, or experiencing a sense of emptiness despite external success.',
     'reversed5': 'Imbalance: In the reversed position, the Nine of Pentacles represents imbalance or an imbalance in work-life harmony. It may indicate neglecting personal well-being, being consumed by work or material pursuits, or struggling to find fulfillment beyond external achievements.',
-    'img': '',
+    'img': '/images/pentacles-nine.png',
   },  
   'ten of pentacles': {
     'cardName': 'Ten of Pentacles',
@@ -2350,7 +2349,7 @@ const card = {
     'reversed3': 'Instability: The reversed Ten of Pentacles embodies instability and lack of security. It may indicate a lack of financial stability, uncertainty about the future, or a feeling of being uprooted or unsettled in your circumstances.',
     'reversed4': 'Inheritance Issues: This card signifies potential issues or conflicts related to inheritance or family wealth. The Ten of Pentacles reversed may suggest disputes over inheritance, legal complications, or challenges related to managing family assets.',
     'reversed5': 'Lack of Fulfillment: In the reversed position, the Ten of Pentacles represents a lack of fulfillment or dissatisfaction despite external success. It may indicate that material wealth alone is not bringing deep fulfillment, leaving a sense of emptiness or discontent.',
-    'img': '',
+    'img': '/images/pentacles-ten.png',
   },  
   'page of pentacles': {
     'cardName': 'Page of Pentacles',
@@ -2389,7 +2388,7 @@ const card = {
     'reversed3': 'Procrastination: This card embodies a tendency to procrastinate or delay action. The reversed Page of Pentacles suggests a lack of motivation or discipline, resulting in missed deadlines, unfinished projects, or a failure to follow through on commitments.',
     'reversed4': 'Impracticality: This card signifies a lack of practicality or realism. The reversed Page of Pentacles suggests a tendency to be unrealistic, impulsive, or overly idealistic in your approach to practical matters or decision-making.',
     'reversed5': 'Lack of Progress: In the reversed position, the Page of Pentacles represents a lack of progress or stagnation. It may indicate feeling stuck or unable to move forward, encountering obstacles or setbacks in achieving goals, or a lack of growth and development.',
-    'img': '',
+    'img': '/images/pentacles-page.png',
   },  
   'knight of pentacles': {
     'cardName': 'Knight of Pentacles',
@@ -2428,7 +2427,7 @@ const card = {
     'reversed3': 'Inflexibility: This card embodies rigidity and resistance to change. The reversed Knight of Pentacles suggests being overly stubborn or resistant to new ideas or perspectives, which can hinder personal or professional growth.',
     'reversed4': 'Impatience: The reversed Knight of Pentacles signifies a lack of patience or a desire for quick results. It may indicate a tendency to rush through tasks or projects without paying attention to detail, leading to errors or subpar outcomes.',
     'reversed5': 'Financial Instability: In the reversed position, the Knight of Pentacles represents potential financial instability or mismanagement. It suggests a need to reassess financial decisions and adopt a more responsible and cautious approach to money matters.',
-    'img': '',
+    'img': '/images/pentacles-knight.png',
   },  
   'queen of pentacles': {
     'cardName': 'Queen of Pentacles',
@@ -2467,7 +2466,7 @@ const card = {
     'reversed3': 'Overindulgence: The reversed Queen of Pentacles signifies a tendency to overindulge or seek comfort in material possessions or sensory pleasures. It may indicate a lack of moderation or an excessive focus on material wealth and possessions.',
     'reversed4': 'Dependency: This card embodies a potential reliance on others for support or a lack of independence. The reversed Queen of Pentacles suggests a need to develop self-sufficiency and take responsibility for your own needs and resources.',
     'reversed5': 'Imbalance: In the reversed position, the Queen of Pentacles represents a lack of balance between practicality and nurturing. It may indicate a tendency to prioritize material needs over emotional well-being or neglecting self-care in favor of taking care of others.',
-    'img': '',
+    'img': '/images/pentacles-queen.png',
   },  
   'king of pentacles': {
     'cardName': 'King of Pentacles',
@@ -2506,7 +2505,7 @@ const card = {
     'reversed3': 'Misuse of Power: The reversed King of Pentacles signifies a misuse of power or authority. It may indicate manipulation, exploitation, or a lack of ethical conduct in business or personal relationships.',
     'reversed4': 'Indolence: This card embodies laziness or a lack of motivation. The reversed King of Pentacles suggests a lack of ambition or drive, procrastination, or a resistance to taking action towards achieving goals.',
     'reversed5': 'Financial Setbacks: In the reversed position, the King of Pentacles represents potential financial setbacks or obstacles. It may indicate financial losses, difficulties in managing resources, or a need to reassess financial strategies and goals.',
-    'img': '',
+    'img': '/images/pentacles-king.png',
   },
   'ace of wands': {
     'cardName': 'Ace of Wands',
@@ -2545,7 +2544,7 @@ const card = {
     'reversed3': 'Lack of Direction: The reversed Ace of Wands signifies a lack of clarity or direction. It may indicate feeling lost or uncertain about your passions and goals. This card suggests the need to reassess and find a new sense of purpose.',
     'reversed4': 'Burnout: This card embodies burnout or exhaustion. The reversed Ace of Wands suggests a depletion of energy, enthusiasm, or motivation. It may indicate the need to rest, recharge, and find a balance between work and personal life.',
     'reversed5': 'Low Confidence: In the reversed position, the Ace of Wands represents a lack of confidence or self-belief. It may indicate self-doubt, fear of failure, or a lack of trust in your abilities. This card suggests the need to build self-confidence and belief in your creative potential.',
-    'img': '',
+    'img': '/images/wands-ace.png',
   },  
   'two of wands': {
     'cardName': 'Two of Wands',
@@ -2584,7 +2583,7 @@ const card = {
     'reversed3': 'Delayed Plans: This card signifies delays or setbacks in plans and projects. The reversed Two of Wands suggests that progress may be slower than expected or hindered by unforeseen obstacles. Patience and adaptability are advised.',
     'reversed4': 'Disconnection: The reversed Two of Wands represents a disconnection or lack of alignment with your long-term goals and aspirations. It may indicate a need to realign priorities and find a stronger sense of purpose.',
     'reversed5': 'Missed Opportunities: This card symbolizes missed opportunities or a failure to take action. The reversed Two of Wands suggests hesitancy, indecisiveness, or a fear of taking risks. It encourages stepping out of your comfort zone and seizing the opportunities presented.',
-    'img': '',
+    'img': '/images/wands-two.png',
   },  
   'three of wands': {
     'cardName': 'Three of Wands',
@@ -2623,7 +2622,7 @@ const card = {
     'reversed3': 'Lack of vision: The reversed Three of Wands symbolizes a lack of vision or a narrow perspective. It may indicate difficulty in seeing the bigger picture or limited awareness of available opportunities. This card encourages expanding your viewpoint and considering alternative paths.',
     'reversed4': 'Misalignment: This card signifies a misalignment with goals or a lack of clarity about your direction. The reversed Three of Wands suggests the need to reassess priorities and realign with personal values and aspirations. It may involve letting go of ventures that no longer serve your growth.',
     'reversed5': 'Missed opportunities: The reversed Three of Wands represents missed opportunities or a failure to seize potential prospects. It may indicate hesitation, fear of taking risks, or a tendency to overlook favorable circumstances. This card encourages being more attentive and proactive in recognizing and pursuing opportunities.',
-    'img': '',
+    'img': '/images/wands-three.png',
   },  
   'four of wands': {
     'cardName': 'Four of Wands',
@@ -2662,7 +2661,7 @@ const card = {
     'reversed3': 'Delay: The reversed Four of Wands represents delays or setbacks in celebrations or milestones. It suggests that the desired outcomes may be postponed or require more time and effort than initially expected. This card encourages patience and persistence in the face of obstacles.',
     'reversed4': 'Unfulfillment: This card symbolizes unfulfilled expectations or a sense of dissatisfaction. The reversed Four of Wands suggests that the current situation may fall short of desired outcomes or fail to bring the expected joy and fulfillment. It encourages reassessing goals and finding alternative sources of satisfaction.',
     'reversed5': 'Lack of Stability: The reversed Four of Wands signifies a lack of stability or an unstable foundation. It may indicate insecurity, unpredictability, or a shaky environment. This card encourages taking steps to establish a stronger and more solid base for future endeavors.',
-    'img': '',
+    'img': '/images/wands-four.png',
   },  
   'five of wands': {
     'cardName': 'Five of Wands',
@@ -2701,7 +2700,7 @@ const card = {
     'reversed3': 'Avoidance: The reversed Five of Wands represents avoiding or ignoring conflicts. It suggests a reluctance to address or confront issues, which may lead to unresolved tensions. This card encourages facing conflicts head-on and seeking resolution for long-term harmony.',
     'reversed4': 'Unproductive Competition: This card symbolizes unhealthy or unproductive competition. The reversed Five of Wands suggests excessive rivalry, ego-driven conflicts, or a win-at-all-costs mentality. It encourages finding ways to collaborate and cooperate rather than engaging in destructive competition.',
     'reversed5': 'Stagnation: The reversed Five of Wands signifies a lack of progress or stagnation due to ongoing conflicts. It suggests that unresolved disputes or constant battles may hinder growth and development. This card encourages finding new approaches, seeking mediation, or letting go of unnecessary conflicts to move forward.',
-    'img': '',
+    'img': '/images/wands-five.png',
   },  
   'six of wands': {
     'cardName': 'Six of Wands',
@@ -2740,7 +2739,7 @@ const card = {
     'reversed3': 'Lack of Recognition: This card represents a lack of recognition or feeling overlooked for your efforts. The reversed Six of Wands suggests that despite your hard work and accomplishments, you may not receive the acknowledgment or praise you desire. It encourages finding inner validation and celebrating personal growth.',
     'reversed4': 'Self-Doubt: The reversed Six of Wands signifies self-doubt or a lack of confidence in your abilities. It suggests a need to overcome insecurities, fears, or negative self-talk that may be holding you back. This card encourages self-belief, positive affirmations, and seeking support to regain confidence.',
     'reversed5': 'Loss of Support: The reversed Six of Wands represents a loss of support or a disconnection from a supportive community. It suggests feeling isolated or experiencing a lack of encouragement from others. This card encourages seeking new sources of support, surrounding yourself with positive influences, and building a new network of allies.',
-    'img': '',
+    'img': '/images/wands-six.png',
   },  
   'seven of wands': {
     'cardName': 'Seven of Wands',
@@ -2779,7 +2778,7 @@ const card = {
     'reversed3': 'Insecurity: The reversed Seven of Wands signifies insecurity, self-doubt, or a lack of confidence in your abilities. It suggests feeling vulnerable or questioning your position or decisions. This card encourages self-reflection, addressing insecurities, and seeking validation from within.',
     'reversed4': 'Retreat: The reversed Seven of Wands represents a need for retreat, rest, or regrouping. It suggests acknowledging when it\'s necessary to step back from the battle and take time to recharge. This card encourages self-care, seeking solitude if needed, and coming back stronger after a period of rest.',
     'reversed5': 'Compromise: The reversed Seven of Wands signifies the need for compromise or finding common ground. It suggests seeking a peaceful resolution or finding a middle ground in a conflict. This card encourages open-mindedness, active listening, and finding mutually beneficial solutions.',
-    'img': '',
+    'img': '/images/wands-seven.png',
   },  
   'eight of wands': {
     'cardName': 'Eight of Wands',
@@ -2818,7 +2817,7 @@ const card = {
     'reversed3': 'Stagnation: The reversed Eight of Wands signifies stagnation, lack of progress, or feeling stuck. It represents a lack of forward motion or a sense of being trapped in a particular situation. This card encourages finding ways to break free from the stagnation and rekindle the energy of progress.',
     'reversed4': 'Overwhelm: The reversed Eight of Wands represents overwhelm, scattered energy, or a sense of being pulled in different directions. It suggests an excessive amount of tasks, responsibilities, or information to handle. This card encourages prioritization, delegation, and finding balance to overcome overwhelm.',
     'reversed5': 'Blocked Energy: The reversed Eight of Wands signifies blocked energy, resistance, or obstacles hindering progress. It suggests that external or internal factors may be impeding your forward movement. This card encourages identifying and addressing any blockages to regain a sense of flow and momentum.',
-    'img': '',
+    'img': '/images/wands-eight.png',
   },  
   'nine of wands': {
     'cardName': 'Nine of Wands',
@@ -2857,7 +2856,7 @@ const card = {
     'reversed3': 'Giving Up: The reversed Nine of Wands represents the temptation to give up or surrender in the face of difficulties. It signifies a lack of motivation or the feeling that the challenges are too overwhelming to overcome. This card encourages reassessing your goals, seeking support, and finding renewed determination.',
     'reversed4': 'Lack of Boundaries: The reversed Nine of Wands signifies a lack of boundaries or weakened defenses. It represents difficulties in maintaining personal boundaries or protecting your energy. This card encourages reassessing your boundaries, asserting yourself, and regaining control over your space and time.',
     'reversed5': 'Resisting Change: The reversed Nine of Wands represents resistance to change or a fear of moving forward. It signifies a reluctance to embrace new opportunities or to step out of your comfort zone. This card encourages examining the underlying fears and beliefs that may be holding you back and being open to growth and transformation.',
-    'img': '',
+    'img': '/images/wands-nine.png',
   },  
   'ten of wands': {
     'cardName': 'Ten of Wands',
@@ -2896,7 +2895,7 @@ const card = {
     'reversed3': 'Release: The reversed Ten of Wands signifies the need to release or let go of excessive responsibilities or obligations. It represents the opportunity to lighten your load and free yourself from unnecessary burdens. This card encourages setting boundaries and prioritizing self-care.',
     'reversed4': 'Loss of Direction: The reversed Ten of Wands represents a loss of direction or feeling unsure about your path forward. It signifies a need to reassess your goals or strategies and regain clarity. This card encourages seeking guidance or exploring new possibilities.',
     'reversed5': 'Resistance: The reversed Ten of Wands signifies resistance to change or a reluctance to release burdens. It represents a fear of letting go or a stubborn attachment to the status quo. This card encourages examining the underlying fears and beliefs that may be holding you back and embracing the potential for growth and transformation.',
-    'img': '',
+    'img': '/images/wands-ten.png',
   },  
   'page of wands': {
     'cardName': 'Page of Wands',
@@ -2935,7 +2934,7 @@ const card = {
     'reversed3': 'Creative Block: The reversed Page of Wands represents a creative block or a lack of inspiration. It signifies a temporary setback in your creative endeavors or a struggle to tap into your creative energy. This card encourages you to explore different sources of inspiration or seek support to overcome the block.',
     'reversed4': 'Restlessness: This card symbolizes a sense of restlessness or a need for change. The reversed Page of Wands suggests a lack of fulfillment or a desire for new experiences. It encourages you to channel your energy in productive ways and explore opportunities for growth and expansion.',
     'reversed5': 'Self-Doubt: The reversed Page of Wands signifies self-doubt or a lack of confidence in your abilities. It represents a fear of taking risks or expressing yourself authentically. This card encourages you to work on building self-belief and embracing your unique gifts and talents.',
-    'img': '',
+    'img': '/images/wands-page.png',
   },  
   'knight of wands': {
     'cardName': 'Knight of Wands',
@@ -2974,7 +2973,7 @@ const card = {
     'reversed3': 'Aggression: The reversed Knight of Wands signifies a potential for aggression or a hot-tempered nature. It represents a need to channel your energy in a more constructive and balanced way. This card encourages you to cultivate patience, diplomacy, and self-control.',
     'reversed4': 'Burnout: This card symbolizes burnout or a depletion of energy. The reversed Knight of Wands suggests a need for rest and rejuvenation. It encourages you to take a step back, recharge, and find a healthy balance between your ambitions and self-care.',
     'reversed5': 'Lack of follow-through: This card represents a lack of follow-through or inconsistency in your actions. The reversed Knight of Wands suggests a tendency to start projects or initiatives without seeing them through to completion. It encourages you to cultivate discipline and commitment to achieve your desired outcomes.',
-    'img': '',
+    'img': '/images/wands-knight.png',
   },  
   'queen of wands': {
     'cardName': 'Queen of Wands',
@@ -3013,7 +3012,7 @@ const card = {
     'reversed3': 'Manipulative: The reversed Queen of Wands suggests a potential for manipulative behavior or using charm and charisma for self-serving purposes. This card warns against using your influence to manipulate others and encourages you to cultivate more authentic and transparent communication.',
     'reversed4': 'Overbearing: This card signifies being overbearing or imposing your opinions on others. The reversed Queen of Wands may indicate a need to step back and allow others to have your own voice and space. It encourages you to practice active listening and respect the perspectives of others.',
     'reversed5': 'Burnout: This card represents burnout or a loss of passion. The reversed Queen of Wands suggests a need for self-care and replenishment of energy. It encourages you to find balance, delegate tasks, and take time to nurture your own well-being.',
-    'img': '',
+    'img': '/images/wands-queen.png',
   },  
   'king of wands': {
     'cardName': 'King of Wands',
@@ -3052,7 +3051,7 @@ const card = {
     'reversed3': 'Dictatorial: The reversed King of Wands suggests a tendency towards being dictatorial or overly controlling. This card warns against using power or influence to dominate others and encourages a more collaborative approach.',
     'reversed4': 'Lack of direction: This card signifies a lack of clear direction or purpose. The reversed King of Wands may struggle with indecisiveness or a loss of focus, making it difficult to achieve goals or make progress.',
     'reversed5': 'Insecurity: This card represents feelings of insecurity or self-doubt. The reversed King of Wands may experience a lack of confidence in his abilities or struggle to assert his authority. It encourages the need to work on self-belief and address underlying insecurities.',
-    'img': '',
+    'img': '/images/wands-king.png',
   },
 
 
@@ -3152,10 +3151,28 @@ app.get('/api/:name', (req,res)=>{
     res.json(card['unknown'])
   }
 })
+
 app.get('/images/:imageName', (req, res) => {
   const imageName = req.params.imageName;
-  res.sendFile(`/images/${imageName}`);
+  const imagePath = __dirname + `/images/${imageName}`;
+
+  res.sendFile(imagePath, (err) => {
+    if (err) {
+      console.error('Error sending image:', err);
+      res.status(404).send('Image not found');
+    }
+  });
 });
+// app.get('/images/:imageName', (req, res) => {
+//   const imageName = req.params.imageName
+//   res.sendFile(`/images/${imageName}`)
+// });
+
+
+// app.get('/images/:imageName', (req, res) => {
+//   const imageName = req.params.imageName
+//   res.sendFile(`/images/${imageName}`)
+// });
 
 app.listen(process.env.PORT || PORT, ()=>{
   console.log(`Woo port ${PORT} is up and running - go catch it!`)
