@@ -3163,16 +3163,6 @@ app.get('/images/:imageName', (req, res) => {
     }
   });
 });
-// app.get('/images/:imageName', (req, res) => {
-//   const imageName = req.params.imageName
-//   res.sendFile(`/images/${imageName}`)
-// });
-
-
-// app.get('/images/:imageName', (req, res) => {
-//   const imageName = req.params.imageName
-//   res.sendFile(`/images/${imageName}`)
-// });
 
 app.listen(process.env.PORT || PORT, ()=>{
   console.log(`Woo port ${PORT} is up and running - go catch it!`)
